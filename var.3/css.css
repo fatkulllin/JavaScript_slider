@@ -1,0 +1,14 @@
+.right {
+	border: 1px solid green;
+}
+.wrong {
+	border: 1px solid red;
+}
+
+img {
+	display: none;
+}
+
+.view{
+	display: block;
+}
